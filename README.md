@@ -4,4 +4,4 @@
 
 なお、Kero Blasterのスピンオフ作品であり、コードベースがほぼ同じと思われるPink HourおよびPink Heavenについても併記する。
 
-1. [ファイル構造](01-file-structures.md)
+参考: https://forum.cavestory.org/threads/kero-blaster-modding.5461/
